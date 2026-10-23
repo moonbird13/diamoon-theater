@@ -1,0 +1,133 @@
+
+Movie Title : Lembayung
+Movie ID : 101
+Time : 12AM
+Total Seatings : 20
+Price : $5.00
+--------------------------------------
+
+Movie Title : Flat girls
+Movie ID : 102
+Time : 11:20AM
+Total Seatings : 6
+Price : $3.00
+--------------------------------------
+
+Movie Title : Red's Envelope
+Movie ID : 103
+Time : 4
+Total Seatings : 40
+Price : $2.00
+--------------------------------------
+
+Movie Title : Your Eyes Tell
+Movie ID : 104
+Time : 10:30PM
+Total Seatings : 20
+Price : $2.50
+--------------------------------------
+
+Movie Title : Kpop demon hunters
+Movie ID : 105
+Time : 7:30PM
+Total Seatings : 50
+Price : $1.00
+--------------------------------------
+
+Movie Title : IT
+Movie ID : 109
+Time : 12:00PM
+Total Seatings : 20
+Price : $2.00
+--------------------------------------
+
+Movie Title : IT
+Movie ID : 110
+Time : 12PM
+Total Seatings : 20
+Price : $2.50
+--------------------------------------
+
+Movie Title : Concrete Utopia 
+Movie ID : 111
+Time : 12PM
+Total Seatings : 20
+Price : $1.50
+--------------------------------------
+
+Movie Title : ER
+Movie ID : 122
+Time : 12PM
+Total Seatings : 20
+Price : $1.40
+--------------------------------------
+
+Movie Title : sadf
+Movie ID : 32
+Time : 2
+Total Seatings : 2
+Price : $2.00
+--------------------------------------
+
+Movie Title : Movie
+Movie ID : 128
+Time : 12
+Total Seatings : 20
+Price : $5.00
+--------------------------------------
+
+Movie Title : lambayungg
+Movie ID : 39
+Time : 3
+Total Seatings : 4
+Price : $5.00
+--------------------------------------
+
+Movie Title : lambayungggg
+Movie ID : 35
+Time : 6
+Total Seatings : 20
+Price : $7.00
+--------------------------------------
+
+Movie Title : conjuringggg
+Movie ID : 65
+Time : 4
+Total Seatings : 5
+Price : $8.00
+--------------------------------------
+
+Movie Title : qweee
+Movie ID : 134
+Time : 12
+Total Seatings : 12
+Price : $1.00
+--------------------------------------
+
+Movie Title : rrrr
+Movie ID : 125
+Time : 12
+Total Seatings : 12
+Price : $7.00
+--------------------------------------
+
+Movie Title : ww
+Movie ID : 12222
+Time : 12
+Total Seatings : 12
+Price : $12.00
+--------------------------------------
+
+Movie Title : eee
+Movie ID : 1234
+Time : 12
+Total Seatings : 12
+Price : $12.00
+--------------------------------------
+
+Movie Title : sss4
+Movie ID : 23
+Time : w
+Total Seatings : 70
+Price : $0.00
+--------------------------------------
